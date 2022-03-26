@@ -2,8 +2,8 @@ module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://3w.vercel.app',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteUrl: 'https://run.ehlxr.me',
+    logo: 'https://cdn.jsdelivr.net/gh/0vo/oss/images/logo_2.png',
     description: 'Personal site and blog',
     navLinks: [
       {

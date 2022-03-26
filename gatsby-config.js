@@ -10,10 +10,10 @@ module.exports = {
         name: 'Blog',
         url: 'https://ehlxr.me',
       },
-      {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
-      },
+      // {
+      //   name: 'About',
+      //   url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+      // },
     ],
   },
   plugins: [
